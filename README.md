@@ -41,8 +41,7 @@ JavaScript (ES6) → Dynamic interactivity
  Improve web UI with animations and filters
 
  Deploy web version online (GitHub Pages/Netlify)
+ 
  screenshot<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9156d73f-aa37-4050-b132-118f1ece8b5b" />
 
-View current tasks
 
-Easy to extend with more features
